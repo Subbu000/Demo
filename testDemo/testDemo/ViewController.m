@@ -26,6 +26,7 @@
     NSLog(@"Venkat hell 1ohgkjhfkgghkjgk");
     
     NSLog(@"hello    ,bnm,bvm,nmv,b.mn,vbm,nm nvknvnbm,vbnb,mvn,bn,mvbnb ");
+    NSLog(@"hello    ,a=savcedfjdnvdmnbm,db ");
 
 }
 - (void)didReceiveMemoryWarning {
