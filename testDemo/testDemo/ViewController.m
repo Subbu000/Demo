@@ -21,7 +21,7 @@
 }
 
 -(void)printName {
-    NSLog(@"Venkat hello");
+    //NSLog(@"Venkat hello");
 }
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
