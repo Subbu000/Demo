@@ -25,7 +25,7 @@
     NSLog(@"Venkat hello");
     NSLog(@"Venkat hell 1ohgkjhfkgghkjgk");
     NSLog(@"Venkat hello");
-    NSLog(@"hello     ");
+    NSLog(@"hello    ,bnm,bvm,nmv,b.mn,vbm,nm ");
 
 }
 - (void)didReceiveMemoryWarning {
